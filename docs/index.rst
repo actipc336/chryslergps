@@ -1,4 +1,4 @@
-How to Update Chrysler GPS Navigation Update: Everything You Need to Know
+How to Update Chrysler GPS Navigation? A Complete Guide
 ==============================================================
 
 .. toctree::
